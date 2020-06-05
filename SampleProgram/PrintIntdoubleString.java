@@ -1,3 +1,4 @@
+package SampleProgram;
 import java.util.Scanner;
 
 public class PrintIntdoubleString {
