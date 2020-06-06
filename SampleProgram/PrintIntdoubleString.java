@@ -9,7 +9,7 @@ public class PrintIntdoubleString {
      int IntValue = sc.nextInt();
      double doubleValue = sc.nextDouble();
      String stringValue = sc.nextLine();
-     
+     sc.close();
      System.out.println(stringValue);
      System.out.println(doubleValue);
      System.out.println(IntValue);
