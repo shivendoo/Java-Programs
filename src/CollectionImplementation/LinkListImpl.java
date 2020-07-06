@@ -1,6 +1,6 @@
 package CollectionImplementation;
 
-import java.util.LinkedList;
+//import java.util.LinkedList;
 
 public class LinkListImpl {
 
